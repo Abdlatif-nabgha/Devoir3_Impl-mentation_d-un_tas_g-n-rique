@@ -91,7 +91,7 @@ heap-sort-project/
 
 ## 👨‍🎓 Auteur
 
-**Ilyasse Ben Taleb**
+**Ilyasse Ben Taleb &**
 **Abd Latif SIDI MED NABGHA**
 Cycle Ingénieur – Génie Logiciel
 ENSET Mohammedia
